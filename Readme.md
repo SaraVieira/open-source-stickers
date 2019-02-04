@@ -5,7 +5,7 @@ Here are all stickers I made that anyone can use.
 I include sketch, png and svg files.
 Some are missing because I delete files :(
 
-If you have sticker ideas feel free to create an issue and I will try to make it
+**If you have sticker ideas feel free to create an issue and I will try to make it**
 
 ## Current Stickers
 
