@@ -17,6 +17,8 @@ Some are missing because I delete files :(
 
 ![gay-node](./stickers/gay-node/gay-node.png)
 
+![i-dont-deploy-on-fridays.png sticker made by @siwalikm](./stickers/no-deploy-friday/iddof.png)
+
 ![berlin-js-girls.png](./stickers/berlin-js-girls/berlin-js-girls.png)
 (The logo of berlin js belongs to berlinjs)
 
