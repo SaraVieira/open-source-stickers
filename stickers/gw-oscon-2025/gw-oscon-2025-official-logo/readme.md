@@ -1,1 +1,3 @@
-## Official GW OSCON Logo created by the GW Communication and Marketing Team
+## Official GW OSCON Logo
+
+Created by the GW Communication and Marketing Team
