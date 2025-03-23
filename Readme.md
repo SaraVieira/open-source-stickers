@@ -27,34 +27,34 @@ Some are missing because I delete files :(
 ### 2025 GW OSCON stickers created by GW students as a part of their digital arts course in collaboration with the GW OSPO
 
 Growing Knowledge sticker made by @ Anna Grettano
-![Growing Knowledge sticker made by @ Anna Grettano](./gw-oscon-2025/OSCON-2025-student-stickers/Anna-Grettano/Anna-2inX2in-CIRCLE.jpg)
+![Growing Knowledge sticker made by @ Anna Grettano](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Anna-Grettano/Anna-2inX2in-CIRCLE.jpg)
 
 Freak Master sticker made by @ Ben Chyba
-![Freak Master sticker made by @ Ben Chyba](./gw-oscon-2025/OSCON-2025-student-stickers/Ben-Chyba/Ben-2inX2in-SQ.jpg)
+![Freak Master sticker made by @ Ben Chyba](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Ben-Chyba/Ben-2inX2in-SQ.jpg)
 
 Open Source sticker made by @ Elise Biondi
-![Open Source sticker made by @ Elise Biondi](./gw-oscon-2025/OSCON-2025-student-stickers/Elise-Biondi/Elise-2inX2in-CIRCLE.jpg)
+![Open Source sticker made by @ Elise Biondi](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Elise-Biondi/Elise-2inX2in-CIRCLE.jpg)
 
 OSPO sticker made by @ Kaia Jordan
-![OSPO sticker made by @ Kaia Jordan](./gw-oscon-2025/OSCON-2025-student-stickers/Kaia-Jordan/Kaia-2inX2in-SQ.jpg)
+![OSPO sticker made by @ Kaia Jordan](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Kaia-Jordan/Kaia-2inX2in-SQ.jpg)
 
 Free Puppy sticker made by @ Lillie Loftis
-![Free Puppy sticker made by @ Lillie Loftis](./gw-oscon-2025/OSCON-2025-student-stickers/Lillie-Loftis/Lillie-2inX2in-CIRCLE.jpg)
+![Free Puppy sticker made by @ Lillie Loftis](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Lillie-Loftis/Lillie-2inX2in-CIRCLE.jpg)
 
 Code Unicorn sticker made by @ Midori Bonner
-![Code Unicorn sticker made by @ Midori Bonner](./gw-oscon-2025/OSCON-2025-student-stickers/Midori-Bonner/Midori-2x2-SQUARE.jpg)
+![Code Unicorn sticker made by @ Midori Bonner](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Midori-Bonner/Midori-2x2-SQUARE.jpg)
 
 2025 GW OSCON sticker made by @ Mikayle Huntington
-![2025 GW OSCON sticker made by @ Mikayle Huntington](./gw-oscon-2025/OSCON-2025-student-stickers/Mikayle-Huntington/Mikayle-3inX4"-RECT.jpg)
+![2025 GW OSCON sticker made by @ Mikayle Huntington](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Mikayle-Huntington/Mikayle-3inX4"-RECT.jpg)
 
 [git-forked sticker made by @ Nina Hrivnak
-![git-forked sticker made by @ Nina Hrivnak](./gw-oscon-2025/OSCON-2025-student-stickers/Nina-Hrivnak/Nina-2inX2in-SQUARE.jpg)
+![git-forked sticker made by @ Nina Hrivnak](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Nina-Hrivnak/Nina-2inX2in-SQUARE.jpg)
 
 Source Freedom Pomegranate sticker made by @ Sam Bellon
-![Source Freedom Pomegranate sticker made by @ Sam Bellon](./gw-oscon-2025/OSCON-2025-student-stickers/Sam-Bellon/Sam-2inX2in-SQ.jpg)
+![Source Freedom Pomegranate sticker made by @ Sam Bellon](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/Sam-Bellon/Sam-2inX2in-SQ.jpg)
 
 Public Sauce sticker made by @ James Huckenpahler (faculty)
-![Public Sauce sticker made by @ James Huckenpahler](./gw-oscon-2025/OSCON-2025-student-stickers/James-Huckenpahler/James-4x6-rect.jpg)
+![Public Sauce sticker made by @ James Huckenpahler](./stickers/gw-stickers/gw-oscon-2025/OSCON-2025-student-stickers/James-Huckenpahler/James-4x6-rect.jpg)
 
 ## FAQ
 
